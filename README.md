@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio but it's working progress](portfolio but it's working progress)
 
-- 💬 Ask me about **🎓 Seeking a Work-Study opportunity (Alternance) starting March 2024. Based in Northern France, I am eager to join a dynamic team to contribute and grow as a developer.**
+- 💬 Ask me about **🎓 Seeking a Work-Study opportunity (Alternance) starting March 2026. Based in Northern France, I am eager to join a dynamic team to contribute and grow as a developer.**
 
 - 📫 How to reach me **pro.emeric.m@gmail.com**
 
